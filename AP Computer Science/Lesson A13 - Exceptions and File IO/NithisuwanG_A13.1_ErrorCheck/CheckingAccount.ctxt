@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CheckingAccount()
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=initialBalance\ acctNum
+comment1.target=CheckingAccount(double,\ int)
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=double\ getBalance()
+comment2.text=\r\n\ Gets\ myBalance\r\n\ \r\n\ @Pre\:\ myBalance\r\n\ @Parameter\:\ None\r\n\ @Return\:\ Double\r\n\ @Post\:\ Returns\ myBalance\r\n
+comment3.params=amount
+comment3.target=void\ deposit(double)
+comment3.text=\r\n\ Adds\ an\ integer\ to\ balance\r\n\ \r\n\ @Pre\:\ myBalance\r\n\ @Parameter\:\ amount\r\n\ @Return\:\ Void\r\n\ @Post\:\ Adds\ to\ balance\r\n
+comment4.params=amount
+comment4.target=void\ withdraw(double)
+comment4.text=\r\n\ Withdraws\ an\ integer\ from\ the\ balance\r\n\ \r\n\ @Pre\:\ myBalance\r\n\ @Parameter\:\ amount\r\n\ @Return\:\ Void\r\n\ @Post\:\ Withdraw\ from\ balance\r\n
+numComments=5

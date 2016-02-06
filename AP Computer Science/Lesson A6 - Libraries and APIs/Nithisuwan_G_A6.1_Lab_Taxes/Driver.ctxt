@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Runs\ the\ Taxes\ class\r\n\ \r\n\ @Pre\:\ Taxes\r\n\ @Parameters\:\ Array\r\n\ @Return\:\ void\r\n\ @Post\:\ Taxes\r\n
+numComments=1

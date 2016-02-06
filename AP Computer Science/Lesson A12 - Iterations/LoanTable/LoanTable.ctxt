@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LoanTable()
+comment0.text=\ Constructor\r\n
+comment1.params=
+comment1.target=void\ getInfo()
+comment1.text=\ Gets\ user\ info\r\n\ \r\n\ Pre\:Varaibles\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Variables\ changed\r\n
+comment2.params=
+comment2.target=void\ calcLoan()
+comment2.text=\ Calculates\ the\ loan\ table\r\n\ \r\n\ Pre\:\ Varaibles\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Prints\ out\ loan\ table\r\n
+numComments=3

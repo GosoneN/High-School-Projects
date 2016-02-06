@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RomanNum()
+comment0.text=\r\n\ Constructor\ for\ RomanNum\r\n\ \r\n\ Pre\:\ Variables\r\n\ Param\:\ None\r\n\ Return\:\ None\r\n\ Post\:\ Initialize\ Variables\r\n
+comment1.params=
+comment1.target=void\ getInfo()
+comment1.text=\r\n\ Gets\ user\ input\ and\ prints\ out\ objective\ of\ program\r\n\ \r\n\ Pre\:\ strMyInput,\ intMyInput\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Prints\ out\ converted\ numbers\r\n
+comment2.params=strIn\ intLength
+comment2.target=int\ strToInt(java.lang.String,\ int)
+comment2.text=\r\n\ Converts\ string\ to\ numbers\r\n\ \r\n\ Pre\:\ String\r\n\ Param\:\ strIn,\ intLength\r\n\ Return\:\ Int\r\n\ Post\:\ Returns\ converted\ integers\r\n
+comment3.params=intNum
+comment3.target=java.lang.String\ intToStr(int)
+comment3.text=\r\n\ Converts\ nubmers\ to\ strings\r\n\ \r\n\ Pre\:\ Int\r\n\ Param\:\ intNum\r\n\ Return\:\ String\r\n\ Post\:\ Returns\ converted\ strings\r\n
+numComments=4

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=strName\ intAge\ strGender\ strID\ dblGPA\ intYear\ strMajor
+comment0.target=CollegeStudent(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ double,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructs\ the\ class\r\n\ \r\n\ Pre\:\ strMyMajor,\ intMyYear\r\n\ Param\:\ strName,\ intAge,\ strGender,\ strID,\ dblGPA,\ intYear,\ strMajor\r\n\ Return\:\ None\r\n\ Post\:\ strMyMajor,\ intMyYear\r\n
+comment1.params=
+comment1.target=java.lang.String\ getMajor()
+comment1.text=\r\n\ Getter\ method\ for\ strMyMajor\r\n\ \r\n\ Pre\:\ strMyMajor\r\n\ Param\:\ None\r\n\ Return\:\ String\r\n\ Post\:\ strMyMajor\r\n
+comment2.params=
+comment2.target=int\ getYear()
+comment2.text=\r\n\ Getter\ method\ for\ intMyYear\r\n\ \r\n\ Pre\:\ intMyYear\r\n\ Param\:\ None\r\n\ Return\:\ int\r\n\ Post\:\ intMyYear\r\n
+comment3.params=strMajor
+comment3.target=void\ setMajor(java.lang.String)
+comment3.text=\r\n\ Setter\ method\ for\ strMyMajor\r\n\ \r\n\ Pre\:\ strMyMajor\r\n\ Param\:\ strMajor\r\n\ Return\:\ Void\r\n\ Post\:\ strMyMajor\r\n
+comment4.params=intYear
+comment4.target=void\ setYear(int)
+comment4.text=\r\n\ Setter\ method\ for\ intMyYear\r\n\ \r\n\ Pre\:\ intMyYear\r\n\ Param\:\ intYear\r\n\ Return\:\ Void\r\n\ Post\:\ intMyYear\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Prints\ out\ what\ is\ needed\r\n\ \r\n\ Pre\:\ strMyMajor,\ intMyYear\r\n\ Param\:\ None\r\n\ Return\:\ String\r\n\ Post\:\ String\r\n
+numComments=6

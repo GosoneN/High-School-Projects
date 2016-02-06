@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CheckMail()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CheckMail\r\n
+comment1.params=
+comment1.target=void\ getDimensions()
+comment1.text=\r\n\ Prompts\ the\ user\ for\ input\r\n\ \r\n\ @Pre\:\ dblMyLength,\ dblMyWidth,\ dblMyHeight,\ dblMyWeight\r\n\ @Parameter\:\ None\r\n\ @Return\:\ Void\r\n\ @Post\:\ dblMyLength,\ dblMyWidth,\ dblMyHeight,\ dblMyWeight\r\n
+comment2.params=
+comment2.target=double\ girth()
+comment2.text=\r\n\ Calculates\ the\ girth\r\n\ \r\n\ @Pre\:\ dblMyWidth,\ dblMyHeight\r\n\ @Parameter\:\ None\r\n\ @Return\:\ Void\r\n\ @Post\:\ girth()\r\n
+comment3.params=
+comment3.target=void\ calculatePackage()
+comment3.text=\r\n\ Calculates\ if\ the\ package\ is\ too\ large\ or\ acceptable\ \r\n\ \r\n\ @Pre\:\ dblMyLength,\ dblMyWeight,\ girth()\r\n\ @Parameter\:\ None\r\n\ @Return\:\ Void\r\n\ @Post\:\ \r\n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GroceryList()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GroceryList\r\n
+comment1.params=
+comment1.target=double\ getCost()
+comment1.text=\r\n\ Asks\ the\ user\ for\ the\ input\ and\ calculates\ the\ total.\r\n\ \r\n\ @param\ \ None\r\n\ @return\ dbleCost\r\n
+numComments=2

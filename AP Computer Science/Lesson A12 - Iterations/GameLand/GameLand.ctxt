@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameLand()
+comment0.text=\r\n\ Constructor\r\n\ \r\n\ Pre\:\ Decalre\ variables\r\n\ Param\:\ None\r\n\ Return\:\ None\r\n\ Post\:\ Initialize\ Variables\r\n
+comment1.params=
+comment1.target=void\ playerTurn()
+comment1.text=\r\n\ Does\ both\ of\ the\ player's\ turns\r\n\ \r\n\ Pre\:Methods\ and\ Variables\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Game\ Finishes\r\n
+comment2.params=
+comment2.target=int\ playerOne()
+comment2.text=\r\n\ Player\ 1's\ turn\r\n\ \r\n\ Pre\:\ Variable\ and\ rollDice()\r\n\ Param\:\ None\r\n\ Return\:\ Int\r\n\ Post\:\ Player\ 1\ has\ moved\r\n
+comment3.params=
+comment3.target=int\ playerTwo()
+comment3.text=\r\n\ Player\ 2's\ turn\r\n\ \r\n\ Pre\:\ Variable\ and\ rollDice()\r\n\ Param\:\ None\r\n\ Return\:\ Int\r\n\ Post\:\ Player\ 2\ has\ moved\r\n
+comment4.params=
+comment4.target=int\ rollDice()
+comment4.text=\r\n\ Returns\ a\ random\ number\ beteeen\ 2\ and\ 12\r\n\ \r\n\ Pre\:\ Needs\ Random\ variable\r\n\ Param\:\ None\r\n\ Return\:\ Int\r\n\ Post\:\ Returns\ random\ number\r\n
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pictures()
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=
+comment1.target=void\ drawTable()
+comment1.text=\r\n\ Draws\ a\ multiplication\ table\r\n\ \r\n\ Pre\:\ Scanner\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Prints\ out\ table\r\n
+comment2.params=
+comment2.target=void\ drawPyramid()
+comment2.text=\r\n\ Draws\ a\ pyramid\ of\ asterisks\r\n\ \r\n\ Pre\:\ Variable\ and\ Scanners\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Prints\ out\ pyramid\r\n
+comment3.params=
+comment3.target=void\ drawBurst()
+comment3.text=\r\n\ Draws\ a\ sunburst\r\n\ \r\n\ Pre\:Pen\ and\ Paper\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Draws\ a\ sunburst\r\n
+numComments=4

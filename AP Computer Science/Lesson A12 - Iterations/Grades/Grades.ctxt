@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grades()
+comment0.text=\r\n\ Constructor\r\n\ \r\n\ Pre\:\ Declared\ Variables\r\n\ Param\:\ None\r\n\ Return\:\ None\r\n\ Post\:\ Initialize\ Variables\r\n
+comment1.params=
+comment1.target=void\ getGrades()
+comment1.text=\r\n\ Calculates\ grades\r\n\ \r\n\ Pre\:\ Variables\ and\ Methods\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Prints\ out\ GPA\r\n
+comment2.params=
+comment2.target=boolean\ hasF()
+comment2.text=\r\n\ If\ the\ user\ has\ an\ user,\ return\ true\r\n\ \r\n\ Pre\:\ None\r\n\ Param\:\ None\r\n\ Return\:\ Boolean\r\n\ Post\:\ Returns\ true\r\n
+comment3.params=
+comment3.target=void\ getF()
+comment3.text=\r\n\ Prints\ out\ Ineligiblitiy\r\n\ \r\n\ Pre\:\ Variables\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Prints\ out\ a\ line\r\n
+comment4.params=
+comment4.target=void\ calcEligible()
+comment4.text=\r\n\ Sees\ if\ the\ user\ is\ eligible\r\n\ \r\n\ Pre\:\ Variables\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Prints\ out\ eligibility\r\n
+numComments=5

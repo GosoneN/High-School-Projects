@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ radius
+comment0.target=Circle(double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n
+comment1.params=
+comment1.target=double\ getPerimeter()
+comment1.text=\r\n\ Gets\ the\ perimeter\r\n\ \r\n\ @Pre\:\ \r\n\ @Parameters\:\ None\r\n\ @Return\:\ The\ Perimeter\:(double)\ (myWidth*2\ +\ myHeight*2)\ \r\n\ @Post\:\ returns\ a\ calculated\ perimeter\r\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\r\n\ Gets\ the\ area\r\n\ \r\n\ @Pre\:\r\n\ @Parameters\:\ None\r\n\ @Return\:\ The\ Area\:(double)\ (myWidth\ *\ myHeight)\r\n\ @Post\:\ returns\ a\ calculated\ area\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ Prints\ out\ the\ perimeter\ and\ area\ of\ the\ Circle\ and\ draws\ it\r\n\ \r\n\ @Pre\:\ \r\n\ @Parameters\:\ None\r\n\ @Return\:\ Void\r\n\ @Post\:\ \r\n
+numComments=4

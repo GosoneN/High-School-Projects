@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ width\ height
+comment0.target=Rectangle(double,\ double,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle\r\n
+comment1.params=
+comment1.target=double\ getPerimeter()
+comment1.text=\r\n\ Gets\ the\ perimeter\r\n\ \r\n\ @Pre\:\ \r\n\ @Parameters\:\ None\r\n\ @Return\:\ The\ Perimeter\:(double)\ (dblMyWidth*2\ +\ dblMyheight*2)\ \r\n\ @Post\:\ returns\ a\ calculated\ perimeter\r\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\r\n\ Gets\ the\ area\r\n\ \r\n\ @Pre\:\r\n\ @Parameters\:\ None\r\n\ @Return\:\ The\ Area\:(double)\ (dblMyWidth\ *\ dblMyheight)\r\n\ @Post\:\ returns\ a\ calculated\ area\r\n
+comment3.params=a\ b\ c
+comment3.target=void\ getQuadratic(double,\ double,\ double)
+comment4.params=
+comment4.target=void\ draw()
+comment4.text=\r\n\ Prints\ out\ the\ perimeter\ and\ area\ of\ the\ rectangle\ and\ draws\ it\r\n\ \r\n\ @Pre\:\ \r\n\ @Parameters\:\ None\r\n\ @Return\:\ Void\r\n\ @Post\:\ \r\n
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Payments()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Payments\r\n
+comment1.params=
+comment1.target=void\ makePayments()
+comment1.text=\r\n\ Asks\ for\ userinput\r\n\ \r\n\ Pre\:\ Variables\r\n\ Param\:None\r\n\ Return\:Void\r\n\ Post\:\ Sets\ variables\r\n
+comment2.params=
+comment2.target=void\ calc()
+comment2.text=\r\n\ Caclulates\ the\ math\r\n\ \r\n\ Pre\:\ Variables\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Prints\ out\ variables\r\n
+numComments=3

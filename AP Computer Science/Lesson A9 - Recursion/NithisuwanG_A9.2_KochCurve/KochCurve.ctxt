@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KochCurve()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ KochCurve\r\n
+comment1.params=
+comment1.target=void\ askMeasurements()
+comment1.text=\r\n\ Asks\ the\ user\ for\ the\ length\ and\ the\ levels\r\n\ \r\n\ Pre\:\ dblMyLength,\ intMyLevel\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ dblMyLength,\ intMyLevel\r\n
+comment2.params=dblLength\ intLevel
+comment2.target=void\ draw(double,\ double)
+comment2.text=\r\n\ Draws\ the\ KochCurve\r\n\ \r\n\ Pre\:\ dblMyLength,\ intMyLevel\r\n\ Param\:\ dblLength,\ intLevel\r\n\ Return\:\ Void\r\n\ Post\:\ None\r\n
+numComments=3

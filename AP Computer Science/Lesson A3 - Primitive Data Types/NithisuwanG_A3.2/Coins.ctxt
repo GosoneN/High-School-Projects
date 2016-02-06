@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Coins()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Coins\r\n
+comment1.params=
+comment1.target=int\ getUserCoin()
+comment1.text=\r\n\ Gets\ the\ number\ of\ cents\ the\ user\ has.\r\n\ \r\n\ @param\ \ None\r\n\ @return\ \ \ \ \ intUserCoin\r\n
+comment2.params=
+comment2.target=void\ calculate()
+comment2.text=\r\nCalculates\ the\ number\ of\ coins\ the\ user\ has.\r\n\ \r\n\ @param\ \ None\r\n\ @return\ \ \ Void\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ Prints\ out\ the\ results\ of\ how\ many\ coins\ the\ user\ has.\r\n\ \r\n\ @param\ \ None\r\n\ @return\ \ \ None\r\n
+numComments=4

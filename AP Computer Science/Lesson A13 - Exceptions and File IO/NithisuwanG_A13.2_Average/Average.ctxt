@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Average()
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=
+comment1.target=double\ getAverage()
+comment1.text=\r\n\ Gets\ the\ average\ of\ the\ numbers.txt\ file\r\n\ \r\n\ @Pre\:\ numbers.txt\ file\r\n\ @Parameter\:\ None\r\n\ @Return\:\ Double\r\n\ @Post\:\ Returns\ a\ number\r\n
+numComments=2

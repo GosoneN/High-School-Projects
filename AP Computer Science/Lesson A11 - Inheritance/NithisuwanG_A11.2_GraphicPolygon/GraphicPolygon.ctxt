@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=intSides\ dblSideLength
+comment0.target=GraphicPolygon(int,\ double)
+comment0.text=\r\n\ Constructor\ for\ GraphicPolygon\r\n\ \r\n\ Pre\:\ dblMyX,\ dblMyY,\ myPen,\ myPaper\r\n\ Param\:\ int\ intSides,\ double\ dblSideLength\r\n\ Return\:\ None\r\n\ Post\:\ Initializes\ Variables\r\n
+comment1.params=intSides\ dblSideLength\ dblX\ dblY
+comment1.target=GraphicPolygon(int,\ double,\ double,\ double)
+comment1.text=\r\n\ Constructor\ for\ GraphicPolygon\r\n\ \r\n\ Pre\:\ dblMyX,\ dblMyY,\ myPen,\ myPaper\r\n\ Param\:\ int\ intSides,\ double\ dblSideLength,\ double\ dblX,\ double\ dblY\r\n\ Return\:\ None\r\n\ Post\:\ Initializes\ Variables\r\n
+comment2.params=dblX\ dblY
+comment2.target=void\ moveTo(double,\ double)
+comment2.text=\r\n\ Moves\ myPen\ to\ specified\ point\r\n\ \r\n\ Pre\:\ dblMyX,\ dblMyY,\ myPen\r\n\ Param\:\ double\ dblX,\ double\ dblY\r\n\ Return\:\ Void\r\n\ Post\:\ Moves\ myPen\ coordinates\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ Draws\ the\ polygon\ along\ with\ inscribed\ circle\r\n\ \r\n\ Pre\:dblSideLength,\ intNumSides,\ dblMyX,\ myPen\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Draws\ polygon\r\n
+numComments=4

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=strName\ intAge\ strGender
+comment0.target=Person(java.lang.String,\ int,\ java.lang.String)
+comment0.text=\r\n\ Constructs\ the\ class\r\n\ \r\n\ Pre\:\ strMyName,\ intMyAge,\ strMyGender\r\n\ Param\:\ strName,\ intAge,\ strGender\r\n\ Return\:\ None\r\n\ Post\:\ strMyName,\ intMyAge,\ strMyGender\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Getter\ method\ for\ strMyName\r\n\ \r\n\ Pre\:\ strMyName\r\n\ Param\:\ None\r\n\ Return\:\ String\r\n\ Post\:\ strMyName\r\n
+comment2.params=
+comment2.target=int\ getAge()
+comment2.text=\r\n\ Getter\ method\ for\ intMyAge\r\n\ \r\n\ Pre\:\ intMyAge\r\n\ Param\:\ None\r\n\ Return\:\ int\r\n\ Post\:\ intMyAge\r\n
+comment3.params=
+comment3.target=java.lang.String\ getGender()
+comment3.text=\r\n\ Getter\ method\ for\ strMyGenderyAge\r\n\ \r\n\ Pre\:\ strMyGender\r\n\ Param\:\ None\r\n\ Return\:\ String\r\n\ Post\:\ strMyGender\r\n
+comment4.params=strName
+comment4.target=void\ setName(java.lang.String)
+comment4.text=\r\n\ Setter\ method\ for\ strMyName\r\n\ \r\n\ Pre\:\ strMyName\r\n\ Param\:\ strName\r\n\ Return\:\ Void\r\n\ Post\:\ strMyName\r\n
+comment5.params=intAge
+comment5.target=void\ setAge(int)
+comment5.text=\r\n\ Setter\ method\ for\ intMyAge\r\n\ \r\n\ Pre\:\ intMyAge\r\n\ Param\:\ intAge\r\n\ Return\:\ Void\r\n\ Post\:\ intMyAge\r\n
+comment6.params=strGender
+comment6.target=void\ setGender(java.lang.String)
+comment6.text=\r\n\ Setter\ method\ for\ strMyGender\r\n\ \r\n\ Pre\:\ strMyGender\r\n\ Param\:\ strGender\r\n\ Return\:\ Void\r\n\ Post\:\ strMyGender\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Prints\ out\ what\ is\ needed\r\n\ \r\n\ Pre\:\ strMyName,\ intMyAge,\ strMyGender\r\n\ Param\:\ None\r\n\ Return\:\ String\r\n\ Post\:\ String\r\n
+numComments=8

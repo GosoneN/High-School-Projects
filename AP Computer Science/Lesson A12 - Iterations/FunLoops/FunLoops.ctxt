@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FunLoops()
+comment0.text=\r\n\ Constructor\ for\ FunLoops\r\n\ \r\n\ Pre\:\ Variables\ declared\r\n\ Param\:\ None\r\n\ Return\:\ None\r\n\ Post\:\ Initialize\ variables\r\n
+comment1.params=
+comment1.target=void\ getInfo()
+comment1.text=\r\n\ Gets\ user\ info\r\n\ \r\n\ Pre\:\ Needs\ two\ variable\ declared\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Calls\ method\r\n
+comment2.params=intNum
+comment2.target=boolean\ isPerfectSquare(int)
+comment2.text=\r\n\ Checks\ if\ the\ number\ is\ a\ perfect\ square\r\n\ \r\n\ Pre\:\ Needs\ a\ parameter\r\n\ Param\:\ int\ intNum\r\n\ Return\:\ Boolean\r\n\ Post\:\ Return\ boolean\r\n
+comment3.params=
+comment3.target=void\ isMagicNum()
+comment3.text=\r\n\ Creates\ magic\ numbers\r\n\ \r\n\ Pre\:\ Needs\ isPerfectSquare()\r\n\ Param\:\ None\r\n\ Return\:\ Void\r\n\ Post\:\ Prints\ out\ magic\ squares\r\n
+comment4.params=intNum1\ intNum2
+comment4.target=void\ getLCM(int,\ int)
+comment4.text=\r\n\ Calculates\ the\ LCM\r\n\ \r\n\ Pre\:\ Needs\ parameters\r\n\ Param\:\ int\ intNum1,\ int\ intNum2\r\n\ Return\:\ Void\r\n\ Post\:\ Prints\ out\ the\ LCM\r\n
+numComments=5

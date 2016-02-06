@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=strName\ intAge\ strGender\ strSubject\ dblSalary
+comment0.target=Teacher(java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ Constructs\ the\ class\r\n\ \r\n\ Pre\:\ strMySubject,\ dblMySa\r\n\ Param\:\ strName,\ intAge,\ strGender,\ strSubject,\ dblSalary\r\n\ Return\:\ None\r\n\ Post\:\ strMySubject,\ dblMySalary\r\n
+comment1.params=
+comment1.target=java.lang.String\ getSubject()
+comment1.text=\r\n\ Getter\ method\ for\ strMySubject\r\n\ \r\n\ Pre\:\ strMySubject\r\n\ Param\:\ None\r\n\ Return\:\ String\r\n\ Post\:\ strMySubject\r\n
+comment2.params=
+comment2.target=double\ getSalary()
+comment2.text=\r\n\ Getter\ method\ for\ dblMySalary\r\n\ \r\n\ Pre\:\ dblMySalary\r\n\ Param\:\ None\r\n\ Return\:\ double\r\n\ Post\:\ dblMySalary\r\n
+comment3.params=strSubject
+comment3.target=void\ setSubject(java.lang.String)
+comment3.text=\r\n\ Setter\ method\ for\ strMySubject\r\n\ \r\n\ Pre\:\ strMySubject\r\n\ Param\:\ strSubject\r\n\ Return\:\ Void\r\n\ Post\:\ strMySubject\r\n
+comment4.params=dblSalary
+comment4.target=void\ setSalary(double)
+comment4.text=\r\n\ Setter\ method\ for\ dblMySalary\r\n\ \r\n\ Pre\:\ dblMySalary\r\n\ Param\:\ dblSalary\r\n\ Return\:\ Void\r\n\ Post\:\ dblMySalary\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ Prints\ out\ what\ is\ needed\r\n\ \r\n\ Pre\:\ strMyID,\ dblMyGPA\r\n\ Param\:\ None\r\n\ Return\:\ String\r\n\ Post\:\ String\r\n
+numComments=6

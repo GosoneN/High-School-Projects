@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Muller()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Muller\r\n
+comment1.params=
+comment1.target=void\ drawMuller()
+comment1.text=\r\n\ Draws\ the\ Muller\ illusion\r\n\ \r\n\ @param\ \ None\r\n\ @return\ Void\ \r\n
+comment2.params=
+comment2.target=void\ drawPonzo()
+comment2.text=\r\n\ Draws\ the\ Ponzo\ illusion\r\n\ \r\n\ @param\ \ None\r\n\ @return\ Void\ \r\n
+numComments=3

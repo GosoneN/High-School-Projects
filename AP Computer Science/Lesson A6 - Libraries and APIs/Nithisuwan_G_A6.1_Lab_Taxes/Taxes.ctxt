@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Taxes()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Taxes\r\n\ \r\n\ @Pre\:\ dblMyHoursWork,\ dblMyHourRate,\ dblMyGrossPay,\ dblMyFedTax,\ dblMyFICATax,\ dblMyStateTax,\ dblNetPay\r\n\ @Parameters\:\ None\r\n\ @Return\:\ None\r\n\ @Post\:\ dblMyHoursWork,\ dblMyHourRate,\ dblMyGrossPay,\ dblMyFedTax,\ dblMyFICATax,\ dblMyStateTax,\ dblNetPay\r\n
+comment1.params=
+comment1.target=double\ getWork()
+comment1.text=\r\n\ Gets\ the\ hours\ worked\ and\ the\ hourly\ rate\ from\ the\ user.\r\n\ \r\n\ @Pre\:\ dblMyHoursWork,\ dblMyHourRate\r\n\ @Parameters\:\ None\r\n\ @Return\:\ dblMyGrossPay\r\n\ @Post\:\ dblMyHoursWork,\ dblMyHourRate,\ dblMyGrossPay\r\n
+comment2.params=
+comment2.target=void\ deductTaxes()
+comment2.text=\r\n\ Calculates\ the\ deduction\ from\ the\ pay\r\n\ \r\n\ @Pre\:\ dblMyFedTax,\ dblMyFICATax,\ dblMyStateTax,\ dblMyGrossPay\r\n\ @Parameters\:\ None\r\n\ @Return\:\ Void\r\n\ @Post\:\ dblMyGrossPay,\ dblNetPay\r\n
+numComments=3

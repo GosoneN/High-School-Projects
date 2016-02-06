@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CarRental()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CarRental\r\n
+comment1.params=
+comment1.target=void\ userInfo()
+comment1.text=\r\n\ User\ enters\ in\ make,\ model,\ and\ license\ plater\r\n\ \r\n\ @Pre\:\ strMyMake,\ strMyModel,\ strMyPlate,\ intMyPlate\r\n\ @Parameter\:\ None\r\n\ @Return\:\ Void\r\n\ @Post\:\ strMyMake,\ strMyModel,\ strMyPlate,\ intMyPlate\ \ \ \r\n
+comment2.params=
+comment2.target=void\ getRental()
+comment2.text=\r\n\ Calculates\ the\ rental\ code\r\n\ \r\n\ @Pre\:\ strMyPlate,\ intMyRent,\ intMyPlate,\ strMyMake,\ strMyModel\r\n\ @Parameter\:\ Return\ \r\n\ @Return\:\ Void\r\n\ @Post\:\ intMyRent\r\n
+numComments=3

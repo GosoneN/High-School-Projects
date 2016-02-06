@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=odometerReading
+comment0.target=Car(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MPG\r\n
+comment1.params=odometerReading\ gallons
+comment1.target=void\ fillUp(int,\ double)
+comment1.text=\r\n\ Fills\ up\ the\ car's\ gas\r\n\ \r\n\ @Pre\:\ \r\n\ @Parameters\:\ odometerReading\ ,\ gallons\r\n\ @Return\:\ Void\r\n\ @Post\:\ \r\n
+comment2.params=
+comment2.target=double\ calculateMPG()
+comment2.text=\r\n\ Calculate\ the\ MPG\r\n\ \r\n\ @Pre\:\ \r\n\ @Parameters\:\ None\r\n\ @Return\:\ MPG\:\ (intMyEndMiles\ -\ intMyStartMiles)\ /\ dblMyGallonsUsed\r\n\ @Post\:\ \r\n
+comment3.params=
+comment3.target=double\ resetMPG()
+comment3.text=\r\n\ Resets\ the\ MPG\r\n\ \r\n\ @Pre\:\ \r\n\ @Parameters\:\ None\r\n\ @Return\:\ intMyStartMiles\r\n\ @Post\:\ \r\n
+numComments=4
