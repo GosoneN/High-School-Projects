@@ -1,0 +1,325 @@
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Zane.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\AA.exe
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\AA.pdb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\AA.csprojResolveAssemblyReference.cache
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\AA.exe
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\AA.pdb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Zane.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\AA.exe
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\AA.pdb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\AA.csprojResolveAssemblyReference.cache
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\AA.exe
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\AA.pdb
+C:\Users\Go\Downloads\AA\AA\AA\AA\obj\x86\Debug\AA.csprojResolveAssemblyReference.cache
+C:\Users\Go\Downloads\AA\AA\AA\AA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Go\Downloads\AA\AA\AA\AA\obj\x86\Debug\AA.exe
+C:\Users\Go\Downloads\AA\AA\AA\AA\obj\x86\Debug\AA.pdb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Zane.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\AA.exe
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\AA.pdb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Zane.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\AA.exe
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\AA.pdb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\AA.csprojResolveAssemblyReference.cache
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\AA.exe
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\obj\x86\Debug\AA.pdb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\CharacterStripe.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\LoadingCircle.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\CharacterStripe.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\LoadingCircle.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\CharacterStripe.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\LoadingCircle.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\WhiteTile.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\grass.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\PavedTile1.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\rock.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\tree.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\stump.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\BigGrass.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\tree1.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\CharacterStripe.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\LoadingCircle.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Enemy.xnb
+C:\Users\Go\Downloads\AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Enemy.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\BattleGround.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\BattleGround.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Slash-TobeReplaced.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Exit.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Slash-TobeReplaced.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Exit.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\TempMenu.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\HPBar.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\TempMenu.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\HPBar.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\FG Tiles\WhiteTile.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\BG Tiles\grass.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\FG Tiles\PavedTile1.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\FG Tiles\rock.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\FG Tiles\tree.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\FG Tiles\stump.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\TempMainMenuBG.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\BattleGround.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Slash-TobeReplaced.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Exit.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\LoadGame.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\StartGame.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\TempMenu.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\BG Tiles\grass1.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\BG Tiles\grass2.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\BG Tiles\grass3.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\F(M)Char_strip8.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\HPBar.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\BG Tiles\TownBattleBackground.xnb
+C:\Users\Izzy\Documents\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\FG Tiles\TownBattleBackgroundFloor.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\grass.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\PavedTile1.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\rock.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\tree.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\stump.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\grass1.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\grass2.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\grass3.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Backgrounds\TownBattleBackground.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Backgrounds\TownBattleBackgroundFloor.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\transfer.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\transfer.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\grass.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\PavedTile1.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\rock.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\tree.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\stump.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\grass1.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\grass2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\grass3.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Backgrounds\TownBattleBackground.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Backgrounds\TownBattleBackgroundFloor.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\AA Logo.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Start.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Load.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\AA Logo.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Start.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Load.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\enemy.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Tiles\enemy.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\IntroScene\IntroDialogue.txt
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\IntroScene\Govt-Animation.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\GifAnimation.dll
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\GifAnimation.pdb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\IntroScene\DialogueBox.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\IntroScene\DialogueBox.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\IntroScene\Govt-Animation.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\IntroScene\IntroDialogue.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\GifAnimation.dll
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\GifAnimation.pdb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\(M)Fire3v2.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\(M)Wind1.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Defend-TobeReplaced.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Dodge-TobeReplaced.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\F(F)Char.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\F(F)CharStrip.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Heal-TobeReplaced.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Slash.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Stab-TobeReplaced.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\(M)Fire3v2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\(M)Wind1.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Defend-TobeReplaced.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Dodge-TobeReplaced.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\F(F)Char.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\F(F)CharStrip.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Heal-TobeReplaced.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Slash.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\Stab-TobeReplaced.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Backgrounds\AA Map.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Start2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Backgrounds\AA Map.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Start2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\F(M)CharA.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\CharacterImages\F(M)CharA.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\OWmenu.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\IntroScene\Bedroom.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\aerensmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\daerynsmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\gaelsmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\kaismall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\mastersmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\natrasmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\off1small.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\off2small.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\zanesmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\items.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\skills.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\save.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\settings.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Exit2.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Load2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\OWmenu.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\IntroScene\Bedroom.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\aerensmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\daerynsmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\gaelsmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\kaismall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\mastersmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\natrasmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\off1small.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\off2small.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\DialogueFaces\zanesmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Exit2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\MainMenu\Load2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\items.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\skills.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\save.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AA\AA\AA\bin\x86\Debug\Content\Menu\settings.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\obj\x86\Debug\AA.csprojResolveAssemblyReference.cache
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\obj\x86\Debug\AA.exe
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\obj\x86\Debug\AA.pdb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\transfer.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Zane.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\PavedTile1.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\rock.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\tree.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\stump.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\CharacterStripe.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\LoadingCircle.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\BattleGround.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Exit.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\TempMenu.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass1.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass3.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\HPBar.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Backgrounds\TownBattleBackground.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Backgrounds\TownBattleBackgroundFloor.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Start.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Load.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\enemy.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\DialogueBox.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\(M)Fire3v2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\(M)Wind1.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\F(F)CharStrip.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Heal-TobeReplaced.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Slash.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Backgrounds\AA Map.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Start2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\F(M)CharA.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\OWmenu.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\Bedroom.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\aerensmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\daerynsmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\gaelsmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\kaismall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\mastersmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\natrasmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\off1small.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\off2small.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\zanesmall.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Exit2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Load2.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\items.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\skills.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\save.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\settings.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\AA Logo.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\F(F)Char.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\Govt-Animation.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Fire1.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\IntroDialogue.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\AA.exe
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\AA.pdb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\GifAnimation.dll
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\GifAnimation.pdb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\PASelect.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Wind1.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Earth1.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Earth2.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\transfer.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Zane.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\PavedTile1.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\rock.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\tree.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\stump.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\CharacterStripe.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\LoadingCircle.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\BattleGround.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Slash-TobeReplaced.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Exit.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\TempMenu.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass1.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass2.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass3.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\HPBar.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Backgrounds\TownBattleBackground.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Backgrounds\TownBattleBackgroundFloor.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Start.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Load.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\enemy.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\DialogueBox.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\(M)Fire3v2.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\(M)Wind1.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Defend-TobeReplaced.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Dodge-TobeReplaced.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\F(F)CharStrip.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Heal-TobeReplaced.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Slash.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Stab-TobeReplaced.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Backgrounds\AA Map.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Start2.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\OWmenu.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\Bedroom.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\aerensmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\daerynsmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\gaelsmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\kaismall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\mastersmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\natrasmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\off1small.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\off2small.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\zanesmall.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Exit2.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Load2.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\items.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\skills.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\save.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\settings.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\AA Logo.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\F(F)Char.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\PASelect.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Fire1.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Wind1.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\F(M)CharA.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Earth1.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Earth2.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\Govt-Animation.xnb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\IntroDialogue.txt
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\AA.exe
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\AA.pdb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\GifAnimation.dll
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\GifAnimation.pdb
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\obj\x86\Debug\AA.csprojResolveAssemblyReference.cache
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\obj\x86\Debug\AA.exe
+C:\Users\Isabella\Dropbox\AA\Shared Coding for AA\AAvG\AA\AA\obj\x86\Debug\AA.pdb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\AA.exe.manifest
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\AA.application
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\obj\x86\Debug\AA.exe.manifest
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\obj\x86\Debug\AA.application
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\RoomLayouts\Wester1BG.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\RoomLayouts\Wester1FG.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\RoomLayouts\Wester2BG.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\RoomLayouts\Wester2FG.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\RoomLayouts\WesterBattleBG.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\RoomLayouts\WesterBattleFG.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\RoomLayouts\WesterwoodLayout.txt
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Default Skills\Dodge.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Default Skills\Guard.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Default Skills\Slash.xnb
+C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Default Skills\Stab.xnb

@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Tiles\transfer.jpg</Source>
+      <Name>Tiles\transfer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\transfer.xnb</Output>
+      <Time>2013-03-26T15:02:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\Zane.png</Source>
+      <Name>CharacterImages\Zane</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Zane.xnb</Output>
+      <Time>2013-03-05T18:39:09-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\grass.jpg</Source>
+      <Name>Tiles\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass.xnb</Output>
+      <Time>2013-03-12T23:09:25-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\PavedTile1.jpg</Source>
+      <Name>Tiles\PavedTile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\PavedTile1.xnb</Output>
+      <Time>2013-03-12T23:09:25-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\rock.png</Source>
+      <Name>Tiles\rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\rock.xnb</Output>
+      <Time>2013-03-25T21:10:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tree.png</Source>
+      <Name>Tiles\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\tree.xnb</Output>
+      <Time>2013-03-25T21:10:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\stump.png</Source>
+      <Name>Tiles\stump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\stump.xnb</Output>
+      <Time>2013-03-27T16:42:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\CharacterStripe.png</Source>
+      <Name>CharacterImages\CharacterStripe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\CharacterStripe.xnb</Output>
+      <Time>2013-03-26T16:34:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\LoadingCircle.png</Source>
+      <Name>CharacterImages\LoadingCircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\LoadingCircle.xnb</Output>
+      <Time>2013-03-24T22:00:05-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\BattleGround.png</Source>
+      <Name>CharacterImages\BattleGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\BattleGround.xnb</Output>
+      <Time>2013-04-16T21:44:10-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Exit.png</Source>
+      <Name>MainMenu\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Exit.xnb</Output>
+      <Time>2013-05-08T18:27:00-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\TempMenu.png</Source>
+      <Name>Menu\TempMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\TempMenu.xnb</Output>
+      <Time>2013-04-20T11:29:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\grass1.png</Source>
+      <Name>Tiles\grass1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass1.xnb</Output>
+      <Time>2013-04-20T12:18:21-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\grass2.png</Source>
+      <Name>Tiles\grass2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass2.xnb</Output>
+      <Time>2013-04-20T12:18:21-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\grass3.png</Source>
+      <Name>Tiles\grass3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\grass3.xnb</Output>
+      <Time>2013-04-20T12:18:21-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\HPBar.png</Source>
+      <Name>CharacterImages\HPBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\HPBar.xnb</Output>
+      <Time>2013-04-20T13:53:05-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\TownBattleBackground.png</Source>
+      <Name>Backgrounds\TownBattleBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Backgrounds\TownBattleBackground.xnb</Output>
+      <Time>2013-04-20T22:37:59-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\TownBattleBackgroundFloor.png</Source>
+      <Name>Backgrounds\TownBattleBackgroundFloor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Backgrounds\TownBattleBackgroundFloor.xnb</Output>
+      <Time>2013-04-20T22:38:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Start.png</Source>
+      <Name>MainMenu\Start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Start.xnb</Output>
+      <Time>2013-05-08T18:26:35-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Load.png</Source>
+      <Name>MainMenu\Load</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Load.xnb</Output>
+      <Time>2013-05-08T18:26:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\enemy.png</Source>
+      <Name>Tiles\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Tiles\enemy.xnb</Output>
+      <Time>2013-05-11T11:59:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>IntroScene\DialogueBox.png</Source>
+      <Name>IntroScene\DialogueBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\DialogueBox.xnb</Output>
+      <Time>2013-05-12T18:32:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\(M)Fire3v2.png</Source>
+      <Name>CharacterImages\(M)Fire3v2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\(M)Fire3v2.xnb</Output>
+      <Time>2013-05-13T21:28:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\(M)Wind1.png</Source>
+      <Name>CharacterImages\(M)Wind1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\(M)Wind1.xnb</Output>
+      <Time>2013-05-13T21:28:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\F(F)CharStrip.png</Source>
+      <Name>CharacterImages\F(F)CharStrip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\F(F)CharStrip.xnb</Output>
+      <Time>2013-05-13T21:28:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\Heal-TobeReplaced.png</Source>
+      <Name>CharacterImages\Heal-TobeReplaced</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Heal-TobeReplaced.xnb</Output>
+      <Time>2013-05-13T21:28:28-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\Slash.png</Source>
+      <Name>CharacterImages\Slash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\Slash.xnb</Output>
+      <Time>2013-05-13T21:28:29-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\AA Map.png</Source>
+      <Name>Backgrounds\AA Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Backgrounds\AA Map.xnb</Output>
+      <Time>2013-05-13T21:59:49-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Start2.png</Source>
+      <Name>MainMenu\Start2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Start2.xnb</Output>
+      <Time>2013-05-13T22:02:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\OWmenu.png</Source>
+      <Name>Menu\OWmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\OWmenu.xnb</Output>
+      <Time>2013-05-15T15:32:27-07:00</Time>
+    </Item>
+    <Item>
+      <Source>IntroScene\Bedroom.png</Source>
+      <Name>IntroScene\Bedroom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\Bedroom.xnb</Output>
+      <Time>2013-05-15T15:37:14-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DialogueFaces\aerensmall.png</Source>
+      <Name>DialogueFaces\aerensmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\aerensmall.xnb</Output>
+      <Time>2013-05-15T16:17:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DialogueFaces\daerynsmall.png</Source>
+      <Name>DialogueFaces\daerynsmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\daerynsmall.xnb</Output>
+      <Time>2013-05-15T16:17:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DialogueFaces\gaelsmall.png</Source>
+      <Name>DialogueFaces\gaelsmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\gaelsmall.xnb</Output>
+      <Time>2013-05-15T16:17:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DialogueFaces\kaismall.png</Source>
+      <Name>DialogueFaces\kaismall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\kaismall.xnb</Output>
+      <Time>2013-05-15T16:17:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DialogueFaces\mastersmall.png</Source>
+      <Name>DialogueFaces\mastersmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\mastersmall.xnb</Output>
+      <Time>2013-05-15T16:17:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DialogueFaces\natrasmall.png</Source>
+      <Name>DialogueFaces\natrasmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\natrasmall.xnb</Output>
+      <Time>2013-05-15T16:17:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DialogueFaces\off1small.png</Source>
+      <Name>DialogueFaces\off1small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\off1small.xnb</Output>
+      <Time>2013-05-15T16:17:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DialogueFaces\off2small.png</Source>
+      <Name>DialogueFaces\off2small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\off2small.xnb</Output>
+      <Time>2013-05-15T16:17:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DialogueFaces\zanesmall.png</Source>
+      <Name>DialogueFaces\zanesmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\DialogueFaces\zanesmall.xnb</Output>
+      <Time>2013-05-15T16:17:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Exit2.png</Source>
+      <Name>MainMenu\Exit2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Exit2.xnb</Output>
+      <Time>2013-05-15T17:15:15-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\Load2.png</Source>
+      <Name>MainMenu\Load2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\Load2.xnb</Output>
+      <Time>2013-05-15T17:15:15-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\items.png</Source>
+      <Name>Menu\items</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\items.xnb</Output>
+      <Time>2013-05-15T17:17:33-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\skills.png</Source>
+      <Name>Menu\skills</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\skills.xnb</Output>
+      <Time>2013-05-15T17:17:33-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\save.png</Source>
+      <Name>Menu\save</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\save.xnb</Output>
+      <Time>2013-05-15T17:17:33-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\settings.png</Source>
+      <Name>Menu\settings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Menu\settings.xnb</Output>
+      <Time>2013-05-15T17:17:33-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenu\AA Logo.png</Source>
+      <Name>MainMenu\AA Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\MainMenu\AA Logo.xnb</Output>
+      <Time>2013-05-15T17:31:05-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\F(F)Char.png</Source>
+      <Name>CharacterImages\F(F)Char</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\F(F)Char.xnb</Output>
+      <Time>2013-05-15T20:37:45-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Power Arts\PASelect.png</Source>
+      <Name>Power Arts\PASelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\PASelect.xnb</Output>
+      <Time>2013-05-19T18:16:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Power Arts\Fire1.png</Source>
+      <Name>Power Arts\Fire1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Fire1.xnb</Output>
+      <Time>2013-05-16T21:37:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Power Arts\Wind1.png</Source>
+      <Name>Power Arts\Wind1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Wind1.xnb</Output>
+      <Time>2013-05-19T19:50:43-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterImages\F(M)CharA.png</Source>
+      <Name>CharacterImages\F(M)CharA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\CharacterImages\F(M)CharA.xnb</Output>
+      <Time>2013-05-14T21:01:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Power Arts\Earth1.png</Source>
+      <Name>Power Arts\Earth1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Earth1.xnb</Output>
+      <Time>2013-05-19T21:48:10.3006707-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Power Arts\Earth2.png</Source>
+      <Name>Power Arts\Earth2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Power Arts\Earth2.xnb</Output>
+      <Time>2013-05-19T21:52:10-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Courier New.spritefont</Source>
+      <Name>Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Courier New.xnb</Output>
+      <Time>2013-05-11T19:05:39-07:00</Time>
+    </Item>
+    <Item>
+      <Source>IntroScene\Govt-Animation.gif</Source>
+      <Name>IntroScene\Govt-Animation</Name>
+      <Importer>GifAminationImporter</Importer>
+      <Processor>GifAnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\IntroScene\Govt-Animation.xnb</Output>
+      <Time>2013-05-13T21:37:05-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Default Skills\Dodge.png</Source>
+      <Name>Default Skills\Dodge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Default Skills\Dodge.xnb</Output>
+      <Time>2013-05-21T19:24:25.9199899-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Default Skills\Guard.png</Source>
+      <Name>Default Skills\Guard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Default Skills\Guard.xnb</Output>
+      <Time>2013-05-21T19:24:50.8064133-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Default Skills\Slash.png</Source>
+      <Name>Default Skills\Slash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Default Skills\Slash.xnb</Output>
+      <Time>2013-05-21T19:25:14.2877564-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Default Skills\Stab.png</Source>
+      <Name>Default Skills\Stab</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\Default Skills\Stab.xnb</Output>
+      <Time>2013-05-21T19:25:36.5950323-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AAContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AAContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\GifAnimation.Pipeline\bin\x86\Debug\GifAnimation.Pipeline.dll</Key>
+        <Value>2013-05-12T18:25:31-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Go\Dropbox\Shared Coding for AA\AAvG\AA\AA\GifAnimation\bin\x86\Debug\GifAnimation.dll</Key>
+        <Value>2013-05-12T18:25:29-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-02-23T23:37:44.9693079-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
